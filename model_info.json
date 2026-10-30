@@ -1,0 +1,14 @@
+{
+  "architecture": "MobileNetV2 transfer learning",
+  "image_size": [
+    224,
+    224
+  ],
+  "classes": [
+    "Bacterial_Leaf_Spot",
+    "Early_Blight_Spot",
+    "Healthy_Leaf",
+    "Yellow_Chlorosis"
+  ],
+  "validation_note": "Evaluate on a separate real-world test set before deployment."
+}
