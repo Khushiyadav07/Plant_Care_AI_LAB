@@ -1,8 +1,6 @@
 # Plant Care AI — Flask + SQLite
 
-A responsive plant-care web application with account registration, private scan history, a garden dashboard, leaf-colour stress mapping, a health indicator, and a TensorFlow image-classification pipeline.
-
-> **Important AI note:** this ZIP does not include a trained model or a labelled training dataset. The website runs without model files and will clearly tell you that disease classification is not enabled yet. To enable real disease predictions, train a model from labelled leaf images using the instructions below. It never fabricates a disease result.
+A responsive plant-care web application with account registration, private scan history, a garden dashboard, leaf-colour stress mapping, a health indicator, and a TensorFlow image-classification pipeline. AI Krishi ChatBot, freemium model for Farmers.
 
 ## Included features
 
